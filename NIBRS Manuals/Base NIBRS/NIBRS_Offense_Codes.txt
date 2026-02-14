@@ -1,0 +1,144 @@
+Uniform Crime Reporting (UCR) Program
+National Incident-Based Reporting System (NIBRS)
+NIBRS Offense Codes
+There are two categories of offenses reported in the NIBRS: Group A and Group B. It is
+important to determine which category an offense belongs to because the reporting
+requirements for Group A offenses and Group B offenses are different. Group A offenses are
+used to report all incidents committed within a law enforcement agency’s jurisdiction to the
+NIBRS, whereas Group B offenses are used only to report arrest data.
+The following criteria were used to determine if a crime should be designated as a Group A
+offense:
+The seriousness or significance of the offense.
+The frequency or volume of its occurrence.
+The prevalence of the offense nationwide.
+The probability of the offense being brought to law enforcement’s attention.
+The likelihood that law enforcement is the best channel for collecting data regarding the
+offense.
+The burden placed on law enforcement to collect data on the offense.
+The national statistical validity and usefulness of the collected data.
+The FBI UCR Program’s responsibility to make crime data available not only to law
+enforcement but to others having a legitimate interest in it.
+There are 22 Group A offense categories making up 46 Group A offenses. The crime categories
+are listed below in alphabetical order. Additionally, each offense’s corresponding UCR Offense
+Code precedes its name. Immediately following the name of each offense name is an indication
+of whether it involves a Crime Against Person, Crime Against Property, or Crime Against Society.
+Group A Offenses
+Offense Code Offense Description Crime Against
+Arson
+200 Arson Property
+Assault Offenses
+13A Aggravated Assault Person
+13B Simple Assault Person
+13C Intimidation Person
+NIBRS 2011 U.S. Department of Justice—Federal Bureau of Investigation
+Uniform Crime Reporting (UCR) Program
+National Incident-Based Reporting System (NIBRS)
+Group A Offenses (continued)
+Offense Code Offense Description Crime Against
+Bribery
+510 Bribery Property
+Burglary/Breaking & Entering
+220 Burglary/Breaking & Entering Property
+Counterfeiting/Forgery
+250 Counterfeiting/Forgery Property
+Destruction/Damage/Vandalism of Property
+290 Destruction/Damage/Vandalism of Property Property
+Drug/Narcotic Offenses
+35A Drug/Narcotic Violations Society
+35B Drug Equipment Violations Society
+Embezzlement
+270 Embezzlement Property
+Extortion/Blackmail
+210 Extortion/Blackmail Property
+Fraud Offenses
+26A False Pretenses/Swindle/Confidence Game Property
+26B Credit Card/Automated Teller Machine Fraud Property
+26C Impersonation Property
+26D Welfare Fraud Property
+26E Wire Fraud Property
+Gambling Offenses
+39A Betting/Wagering Society
+39B Operating/Promoting/Assisting Gambling Society
+39C Gambling Equipment Violations Society
+39D Sports Tampering Society
+Homicide Offenses
+09A Murder & Nonnegligent Manslaughter Person
+09B Negligent Manslaughter Person
+09C Justifiable Homicide Person/Not a Crime
+NIBRS 2011 U.S. Department of Justice—Federal Bureau of Investigation
+Uniform Crime Reporting (UCR) Program
+National Incident-Based Reporting System (NIBRS)
+Group A Offenses (continued)
+Offense Code Offense Description Crime Against
+Kidnapping/Abduction
+100 Kidnapping/Abduction Person
+Larceny/Theft Offenses
+23A Pocket-picking Property
+23B Purse-snatching Property
+23C Shoplifting Property
+23D Theft From Building Property
+23E Theft From Coin-Operated Machine or Device Property
+23F Theft From Motor Vehicle Property
+23G Theft of Motor Vehicle Parts or Accessories Property
+23H All Other Larceny Property
+Motor Vehicle Theft
+240 Motor Vehicle Theft Property
+Pornography/Obscene Material
+370 Pornography/Obscene Material Society
+Prostitution Offenses
+40A Prostitution Society
+40B Assisting or Promoting Prostitution Society
+Robbery
+120 Robbery Property
+Sex Offenses, Forcible
+11A Forcible Rape Person
+11B Forcible Sodomy Person
+11C Sexual Assault With An Object Person
+11D Forcible Fondling Person
+Sex Offenses, Nonforcible
+36A Incest Person
+36B Statutory Rape Person
+Stolen Property Offenses
+280 Stolen Property Offenses Property
+NIBRS 2011 U.S. Department of Justice—Federal Bureau of Investigation
+Uniform Crime Reporting (UCR) Program
+National Incident-Based Reporting System (NIBRS)
+Group A Offenses (continued)
+Offense Code Offense Description Crime Against
+Weapon Law Violations
+520 Weapon Law Violations Society
+There are 11 Group B offense categories. They encompass all of the crimes that are not Group
+A offenses. The Group B offense categories are listed below in alphabetical order.
+Group B Offenses
+Offense Code Offense Description Crime Against
+Bad Checks
+90A Bad Checks Property
+Curfew/Loitering/Vagrancy Violations
+90B Curfew/Loitering/Vagrancy Violations Society
+Disorderly Conduct
+90C Disorderly Conduct Society
+Driving Under the Influence
+90D Driving Under the Influence Society
+Drunkenness
+90E Drunkenness Society
+Family Offenses, Nonviolent
+90F Family Offenses, Nonviolent Society
+Liquor Law Violations
+90G Liquor Law Violations Society
+Peeping Tom
+90H Peeping Tom Society
+Runaway*
+90I Runaway Not a Crime
+NIBRS 2011 U.S. Department of Justice—Federal Bureau of Investigation
+Uniform Crime Reporting (UCR) Program
+National Incident-Based Reporting System (NIBRS)
+Group B Offenses (continued)
+Offense Code Offense Description Crime Against
+Trespass of Real Property
+90J Trespass of Real Property Society
+All Other Offenses
+90Z All Other Offenses Person, Property,
+or Society
+*Note: In January 2011, the FBI discontinued the collection of arrest data for runaways. Agencies may
+continue to collect data on runaways, but the FBI will no longer use or publish that data.
+NIBRS 2011 U.S. Department of Justice—Federal Bureau of Investigation

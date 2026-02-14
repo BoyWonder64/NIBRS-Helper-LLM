@@ -1,0 +1,1782 @@
+U. S. Department of Justice
+Federal Bureau of Investigation
+Criminal Justice Information Services Division
+Criminal Justice Information
+Services (CJIS) Division
+Uniform Crime Reporting (UCR) Program
+Cargo Theft
+User Manual
+Version 3.0
+Document Date: 04/07/2023
+Prepared by:
+Law Enforcement Engagement and Data Sharing
+Sections (LEEDS)
+Crime and Law Enforcement Statistics Unit
+(CLESU)
+CHANGE DESCRIPTION SUMMARY
+Revision Change Description Created/Changed by Date Approved By
+3/29/2013 Amy Blasher
+1.0 Initial Release Leslie Underwood/Kristi
+Donahue
+2.0 Updates to submission Kristi Donahue
+methods
+4/07/2023
+3.0 Addition of Offense Jennifer Parker
+Code 26F Identity
+Theft and 26G
+Hacking/Computer
+Invasion
+Contents
+1 INTRODUCTION ............................................................................................................................... 4
+1.1 Background of UCR Cargo Theft ..................................................................................... 4
+1.2 UCR Programs and Non-Program Domains ..................................................................... 5
+1.3 Jurisdiction .................................................................................................................... 6
+1.4 Referrals from Other Agencies ....................................................................................... 7
+2 CARGO THEFT INCIDENTS & OFFENSES .................................................................................. 7
+2.1 Definition of a Cargo Theft Incident ............................................................................... 7
+2.1.1 The Concept of Acting in Concert ........................................................................................................... 7
+2.1.2 The Concept of Same Time and Place..................................................................................................... 7
+2.1.3 Examples of Acting in Concert and Same Time and Place ...................................................................... 8
+2.2 Classifying Offenses ....................................................................................................... 8
+2.2.1 Cargo Theft Offenses .............................................................................................................................. 9
+2.2.2 UCR Offenses ........................................................................................................................................ 10
+2.3 Offense Definitions ...................................................................................................... 12
+2.3.1 Source of Offense Definitions ............................................................................................................... 12
+2.3.2 Nonconforming Offenses ...................................................................................................................... 12
+2.4 Cargo Theft Offense Definitions ................................................................................... 13
+2.5 Location Codes ............................................................................................................ 16
+2.6 Weapon/Force Involved Codes .................................................................................... 22
+2.7 Victim Type Codes ....................................................................................................... 23
+2.8 Property Codes ........................................................................................................... 24
+3 SUBMISSIONS .................................................................................................................................. 36
+3.1 NIBRS .......................................................................................................................... 36
+3.1.1 Data Elements and Data Values ............................................................................................................ 37
+3.2 Cargo Theft Incident Report ......................................................................................... 37
+3.2.1 Completing the CARGO THEFT INCIDENT REPORT (Form 1110-0048) .................................................. 38
+3.3 Cargo Theft Technical Specifications ............................................................................ 40
+4 SCENARIOS OF CARGO THEFT ................................................................................................... 40
+5 SCENARIOS OF INCIDENTS NOT MEETING CARGO THEFT GUIDELINES ..................... 42
+6 QUALITY ASSURANCE REVIEW (QAR) PROCESS ................................................................. 42
+7 APPENDIX A – LEGISLATION ..................................................................................................... 44
+8 APPENDIX C – SUBMITTING CARGO THEFT DATA TO THE FBI UCR PROGRAM ....... 52
+9 APPENDIX D – UCR OFFENSE DEFINITIONS .......................................................................... 55
+10 APPENDIX E – CONTACT THE FBI’s UCR PROGRAM........................................................... 66
+1 Introduction
+The FBI’s UCR Program is a nationwide, cooperative statistical effort of over 18,000 city,
+university and college, county, state, tribal, and federal law enforcement agencies (LEAs)
+voluntarily reporting data on crimes reported or known. Since 1930, the FBI has administered
+the UCR Program and continued to assess and monitor the nature and type of crime in the
+nation. The program’s primary objective is to generate reliable information for use in law
+enforcement administration, operation, and management. However, over the years, UCR data
+have become one of the country’s leading social indicators. Criminologists, sociologists,
+legislators, municipal planners, the media, and other students of criminal justice use the data
+for varied research and planning purposes.
+This manual is intended to assist law enforcement agencies in reporting incidents of cargo theft
+to the FBI’s UCR Program. It addresses policy, the types of offenses that constitute a Cargo Theft
+incident, how to identify a cargo theft, and guidelines for reporting cargo theft.
+1.1 Background of UCR Cargo Theft
+Due to the significant economic impact that cargo theft has on the United States economy, and
+the potential for use by terrorist organizations, H.R. 3199, the “USA Patriot Improvement and
+Re-authorization Act of 2005,” was mandated by Congress on March 9, 2006. The Act requires
+the Attorney General to “take the steps necessary to ensure that reports of cargo theft
+collected by federal, state, and local officials are reflected as a separate category in the FBI
+Uniform Crime Reporting system…” In response to this mandate, the CJIS Advisory Policy Board
+approved a definition for Cargo Theft in December 2006. It was developed, not as a legal
+definition for prosecutorial purposes, but to capture the essence of the national cargo theft
+crime problem and its negative effect on the economy of the United States. The legal elements
+of knowledge and intent were intentionally omitted. For UCR purposes, Cargo Theft is defined
+as follows:
+Cargo Theft is the criminal taking of any cargo including, but not limited to, goods,
+chattels, money, or baggage that constitutes, in whole or in part, a commercial shipment of
+freight moving in commerce, from any pipeline system, railroad car, motortruck, or other
+vehicle, or from any tank or storage facility, station house, platform, or depot, or from any
+vessel or wharf, or from any aircraft, air terminal, airport, aircraft terminal or air navigation
+facility, or from any intermodal container, intermodal chassis, trailer, container freight station,
+warehouse, freight distribution facility, or freight consolidation facility. For purposes of this
+definition, cargo shall be deemed as moving in commerce at all points between the point of
+origin and the final destination, regardless of any temporary stop while awaiting transshipment
+or otherwise.
+1.2 UCR Programs and Non-Program Domains
+Forty-seven states in the nation have their own UCR Programs which streamline the collection of
+UCR data from local LEAs, ensure consistency and comparability of data, and provide a higher
+quality of service to the law enforcement community. Establishment of a UCR Program is not
+limited to state governments. Territorial, tribal, and federal agencies may also institute the
+UCR Programs. UCR Programs gather crime information from the LEAs under their domain and
+forward the data to the FBI.
+The following are the standards under which a UCR Program must operate:
+1. A UCR Program must conform to the FBI’s UCR Program’s submission
+standards, definitions, specifications, and required deadlines.
+2. A UCR Program must establish data integrity procedures and have personnel assigned to
+assist contributing agencies in quality assurance practices and crime reporting
+procedures.
+3. A UCR Program’s submissions must cover more than 50 percent of the LEAs within its
+established reporting domain and be willing to recover any and all UCR-contributing
+agencies who wish to use the UCR Program from within its domain. (An agency wishing
+to become a UCR Program must be willing to report for all of the agencies within the
+state.)
+4. A UCR Program must furnish the FBI’s UCR Program with all of the UCR data collected
+by the LEAs within its domain.
+These standards do not prohibit a state from gathering other statistical data beyond the
+national collection. Data integrity procedures should include crime trend assessments, offense
+classification verification, and technical specification validation.
+The FBI fulfills its responsibilities in connection with the UCR Programs by:
+• Editing and reviewing submissions for both completeness and quality.
+• Contacting contributors, when necessary, in connection with crime reporting matters.
+• Requesting individual agency information, when necessary, from the contributing UCR
+Program.
+• Assessing the validity of reported data by providing a Quality Assurance Review (QAR).
+• Coordinating with the contributing UCR Program to conduct training on law enforcement
+record-keeping and crime-reporting procedures.
+• Sending state UCR State Program Bulletins for distribution to contributing agencies.
+Should circumstances develop whereby the UCR Program does not comply with the
+aforementioned standards, the FBI may reinstitute a direct collection of data submissions from
+LEAs within the UCR Program’s domain.
+The FBI’s UCR Program refers to LEAs in states without a UCR Program as direct contributors
+because they submit their data directly to the FBI. These agencies work closely with staff from
+the FBI’s UCR Program to ensure their data adhere to UCR Program guidelines.
+1.3 Jurisdiction
+The purpose of establishing appropriate jurisdiction is to depict the nature and amount of crime
+in a particular community. Throughout the United States, there are thousands of LEAs; some
+have overlapping jurisdictions. To ensure LEAs with overlapping jurisdictions are not reporting
+duplicate data (offense or arrest), the FBI’s UCR Program developed the following guidelines:
+1. Local, county, state, tribal, and federal LEAs should report offenses that occur within their
+jurisdictions.
+2. When two or more local, county, state, tribal, or federal LEAs are involved in the
+investigation of the same offense, the agency with investigative jurisdiction based on local,
+county, state, tribal, and federal law and/or applicable interagency agreements or
+memorandums of understanding should report the offense. If there is uncertainty as to the
+lead or primary agency, the agencies must agree on which agency should report the
+offense.
+3. LEAs will report only those arrests made for offenses committed within their own
+jurisdictions.
+4. The recovery of property should be reported only by the LEA who first reported it missing
+and/or stolen regardless of which agency recovered it.
+As a rule, cities having their own police departments report their own crime data. However,
+smaller locales may combine their crime data with larger agencies (e.g., sheriffs’ offices and
+state police) for reporting purposes. This practice most often occurs in rural or unincorporated
+areas employing constables, town marshals, or other officers who infrequently report offenses.
+In cases where the county sheriff or state police has a contract to provide law enforcement
+services for an incorporated city, the sheriff or state police will continue to report incidents
+occurring within the boundaries of these cities. These reports should reflect the geographic
+location of where the incident occurred by use of the city’s Originating Agency Identifier (ORI).
+In some localities, the sheriff, state police, or a federal LEA will assist a local police department
+in the investigation of crimes committed within the limits of the city. Even though this is the
+case, the city police department should report the offenses unless there is a written or oral
+agreement specifying otherwise.
+1.4 Referrals from Other Agencies
+If a reporting agency refers the investigation of an incident to another local, state, or federal
+agency after submitting the data to the FBI’s UCR Program, the original reporting agency must
+delete its report. The agency receiving the referral would then report the incident as if it were
+an original submission.
+2 Cargo Theft Incidents & Offenses
+Participation in the Cargo Theft data collection requires law enforcement report certain facts
+about each criminal incident that comes to their attention within their jurisdiction. In most cases,
+officers capture the data through an incident report form they complete when a crime is first
+reported. (See Appendix B, Cargo Theft Incident Report Form, for an example of an incident
+report form.) In other instances, officers may collect data via a mobile terminal that interfaces
+with their department’s records management system (RMS).
+2.1 Definition of a Cargo Theft Incident
+Cargo Theft is defined as “the criminal taking of any cargo.” This could also include physical
+theft as well as cyber theft and documentation fraud, where the ownership, destination, or
+contents of a cargo shipment is altered. Additionally, many incidents of cargo theft involve
+employees. With regard to Cargo Theft, the FBI UCR Program defines an incident as one or
+more offenses committed by the same offender, or group of offenders acting in concert, at the
+same time and place. Application of the concept determines whether the crimes should be
+reported as individual incidents or as a single incident comprised of multiple offenses.
+2.1.1 The Concept of Acting in Concert
+Acting in concert requires that all of the offenders actually commit or assist in the commission
+of all of the crime(s) in an incident. The offenders must be aware of, and consent to, the
+commission of all of the offenses(s); or even if nonconsenting, their actions assist in the
+commission of all of the offense(s). See Section 2.1.3, Example 2, Acting in Concert. This is
+important because all of the offenders in an incident are considered to have committed all of
+the offenses in the incident. If one or more of the offenders did not act in concert, then more
+than one incident should be reported. See Section 2.1.3, Example 1, Acting in Concert.
+2.1.2 The Concept of Same Time and Place
+The concept of Same Time and Place is based on the premise that if the same person or group
+of persons committed more than one crime and the time and space intervals separating them
+were insignificant, all of the crimes make up a single incident. Normally, the offenses must
+have occurred during an unbroken time period and at the same or adjoining location(s).
+However, incidents can also be comprised of offenses that by their nature involve continuing
+criminal activity by the same offender(s) at different times and places, as long as law
+enforcement deems the activity to constitute a single criminal transaction. (See Section 2.1.3,
+Example 3, Same Time and Place.)
+2.1.3 Examples of Acting in Concert and Same Time and Place
+Because it is not possible to provide instructions that will cover all of the possible situations
+that might occur, the reporting agency must use its best judgment in determining how many
+incidents were involved in some cases.
+Example 1, Acting in Concert
+Four men wearing ski masks conducted an armed robbery (UCR Offense Code 120 Robbery) at a
+trucking facility. One of the robbers found a female employee in the break room and raped her
+there outside of the view of the other offenders. When the rapist returned from the break
+room, all four of the robbers left the facility. In this example, there were two incidents: The
+rape (UCR Offense Code 11A Rape) is a separate incident because one of the four offenders
+independently committed this act and therefore, all the offenders were not acting in concert.
+Example 2, Acting in Concert
+During a robbery (UCR Offense Code 120 Robbery) scenario similar to Example 1, the rape (UCR
+Offense Code 11A Rape) occurred in front of the other victims. One of the other offenders told
+the rapist to stop and only rob the victim. By pointing the gun at the other victims, he
+prevented any of them from coming to the rape victim’s assistance and thereby, assisted in the
+commission of the crime. In this example, there was only one incident with two offenses, (i.e.,
+robbery and rape.)
+Example 3, Same Time and Place
+Over a period of 18 months, an employee used the Internet to gain unauthorized access to the
+shipping records for Company ABC (UCR Offense Code 270 Embezzlement). The employee then
+obtained corporate credit card information and pre-paid the freight fees for a shipment of
+imported wines (UCR Offense Code 26B Credit Card/Automated Teller Machine Fraud). Via
+computer, the suspect illegally diverted the shipment to an alternate address (UCR Offense
+Code 26E Wire Fraud).
+2.2 Classifying Offenses
+Cargo Theft is not considered an offense by itself. Law enforcement must report all offenses
+within a Cargo Theft incident. For example, rape might be accompanied by the crimes of motor
+vehicle theft and kidnapping/abduction (Cargo Theft offense = motor vehicle theft). Law
+enforcement must ensure each reported offense is a separate, distinct crime and not just a part
+of another offense. For example, every robbery includes some type of assault, but because the
+assault is an element that makes up the crime of robbery, only robbery should be reported.
+However, if during a robbery the victim was forced to engage in sexual relations, both robbery
+and rape should be reported since forced sexual intercourse is not an element of the crime of
+robbery (Cargo Theft offense = robbery).
+2.2.1 Cargo Theft Offenses
+The following table lists the Cargo Theft offenses. Following the name of each crime is the UCR
+Offense Code. At least one of these offenses must be present within an incident in order to be
+considered a Cargo Theft incident. The definitions of each of these offenses can be found in
+Section 2.4.
+UCR
+Offense Offense
+Code
+Robbery 120
+Extortion/Blackmail 210
+Burglary/Breaking & Entering 220
+Larceny/Theft Offenses
+Theft From Building 23D
+Theft From Motor Vehicle 23F
+All Other Larceny 23H
+Motor Vehicle Theft 240
+Fraud Offenses
+False Pretenses/Swindle/Confidence Game 26A
+Credit Card/Automated Teller Machine Fraud 26B
+Impersonation 26C
+Wire Fraud 26E
+Identity Theft 26F
+Hacking/Computer Invasion 26G
+Embezzlement 270
+Bribery 510
+2.2.2 UCR Offenses
+The following table lists all of the UCR offenses that can be reported in conjunction with the
+Cargo Theft offenses listed above. The definitions for each of these offenses can be found in
+Appendix D.
+UCR
+Offense Offense
+Code
+Homicide Offenses
+Murder and Nonnegligent Manslaughter 09A
+Negligent Manslaughter 09B
+Kidnapping/Abduction 100
+Sex Offenses
+Rape 11A
+Sodomy 11B
+Sexual Assault with an Object 11C
+Fondling 11D
+Incest 36A
+Statutory Rape 36B
+Assault Offenses
+Aggravated Assault 13A
+Simple Assault 13B
+Intimidation 13C
+Robbery 120
+Arson 200
+Extortion/Blackmail 210
+Burglary/Breaking & Entering 220
+Larceny/Theft Offenses
+Pocket-Picking 23A
+Purse-snatching 23B
+Shoplifting 23C
+Theft From Building 23D
+Theft From Coin-Operated Machine or Device 23E
+Theft From Motor Vehicle 23F
+Theft From Motor Vehicle Parts or Accessories 23G
+All Other Larceny 23H
+Motor Vehicle Theft 240
+UCR
+Offense Offense
+Code
+Counterfeiting/Forgery 250
+Fraud Offenses
+False Pretenses/Swindle/Confidence Game 26A
+Credit Card/Automated Teller Machine Fraud 26B
+Impersonation 26C
+Welfare Fraud 26D
+Wire Fraud 26E
+Identity Theft 26F
+Hacking/Computer Invasion 26G
+Embezzlement 270
+Stolen Property Offenses 280
+Destruction/Damage/Vandalism of Property 290
+Drug/Narcotic Offenses
+Drug/Narcotic Violations 35A
+Drug Equipment Violations 35B
+Pornography/Obscene Material 370
+Gambling Offenses
+Betting/Wagering 39A
+Operating/Promoting/Assisting Gambling 39B
+Gambling Equipment Violations 39C
+Sports Tampering 39D
+Prostitution Offenses
+Prostitution 40A
+Assisting or Promoting Prostitution 40B
+Purchasing Prostitution 40C
+Bribery 510
+Weapon Law Violations 520
+Human Trafficking
+Human Trafficking – Commercial Sex Acts 64A
+Human Trafficking – Involuntary Servitude 64B
+Law enforcement should classify and report offenses after the preliminary confirmation of a call
+for service or a complaint establishes that a Cargo Theft crime was, in fact, committed.
+Agencies should record only offenses known to law enforcement, not the findings of a court,
+coroner, jury, or prosecutor.
+2.3 Offense Definitions
+2.3.1 Source of Offense Definitions
+The FBI’s UCR Program has used the Summary Reporting System (SRS) format for collecting
+crime data from LEAs since the 1930’s. The hierarchical reporting format used in the SRS
+restricts the type of data that can be collected in Cargo Theft incidents. In an effort to keep
+the reporting of cargo theft consistent in both the National Incident-Based Reporting System
+(NIBRS) and SRS, the Cargo Theft data collection does not follow application of the Hierarchy
+Rule used by SRS. The information collected on the Cargo Theft Incident Form and the Cargo
+Theft Technical Specification will mirror what is reported by NIBRS agencies.
+The use of standardized definitions in Cargo Theft is essential to the maintenance of uniform
+and consistent data. This practice ensures the FBI’s UCR Program considers and appropriately
+counts all criminal offenses of law, regardless of their different titles under local and state law
+or United States Titles and Statutes.
+As developed by law enforcement, the purpose of the FBI’s UCR Program is to provide a
+common language that transcends varying local and state laws. Therefore, the definitions that
+were developed for UCR are not intended for charging persons with crimes. Instead, the
+definitions should be used as receptacles to translate crime into the common UCR language
+used throughout the United States. Though state statutes specifically define crimes so that
+persons facing prosecution will know the exact charges placed against them, the definitions
+used in Cargo Theft must be generic in order not to exclude varying state statutes relating to
+the same type of crime.
+The offense definitions used in Cargo Theft are based on the common-law definitions found in
+Black’s Law Dictionary, as well as those used in the National Crime Information Center (NCIC)
+2000 Uniform Offense Classifications. Because most state statutes are also based on the
+common-law definitions, even though they may vary as to specifics, most should fit into the
+corresponding UCR offense classifications.
+2.3.2 Nonconforming Offenses
+If a state statute for an offense includes additional offenses not fitting the Cargo Theft offense
+definition, the nonconforming offenses should be reported according to their Cargo Theft
+offense classifications. For example, some states have larceny statutes that are so broadly
+worded as to include the crime of embezzlement. If an offender perpetrates embezzlement
+within such a state, law enforcement should report the offense via Cargo Theft as
+embezzlement, not larceny/theft.
+Certainly, unusual situations will arise in classifying offenses, and this manual cannot cover all
+circumstances. In classifying unusual situations, law enforcement should consider the nature of
+the crime along with the guidelines provided. The Cargo Theft Offense Definitions in Section
+2.4 will aid in classifying offenses.
+2.4 Cargo Theft Offense Definitions
+There are 13 Cargo Theft offense categories. The offense categories are listed below in
+numerical order. Each entry includes the following information:
+• Cargo Theft offense code, offense name
+• Definition
+• Considerations and examples (as appropriate)
+120 Robbery
+The taking or attempting to take anything of value under confrontational
+circumstances from the control, custody, or care of another person by force or threat
+of force or violence and/or putting the victim in fear of immediate harm.
+Because some type of assault is an element of the crime of robbery, an assault should
+not be reported as a separate crime as long as it was performed in furtherance of the
+robbery. However, if the injury results in death, a homicide offense must also be
+reported.
+The victims of a robbery include not only those persons and other entities (businesses,
+financial institutions, etc.) from whom property was taken, but also those persons
+toward whom the robber(s) directed force or threat of force in perpetrating the offense.
+Therefore, although the primary victim in a bank robbery would be the Financial
+Institution, the teller toward whom the robber pointed a gun and made a demand
+should also be reported as a victim. Carjackings are robberies in which a motor vehicle is
+taken through force or threat of force. Report only a robbery not a motor vehicle
+theft.
+210 Extortion/Blackmail
+To unlawfully obtain money, property, or any other thing of value, either tangible or
+intangible, through the use or threat of force, misuse of authority, threat of criminal
+prosecution, threat of destruction of reputation or social standing, or through other
+coercive means.
+220 Burglary/Breaking & Entering
+The unlawful entry into a building or other structure with the intent to commit a
+felony or a theft.
+A forced entry is where force of any degree or a mechanical contrivance of any kind (e.g.,
+a passkey or skeleton key) is used to unlawfully enter a building or other structure. An
+unforced entry is one where the unlawful entry is achieved without force through an
+unlocked door or window.
+LARCENY-THEFT OFFENSES
+The unlawful taking, carrying, leading, or riding away of property from the possession or
+constructive possession of another person.
+23D Theft From a Building
+A theft from within a building which is either open to the general public or to which
+the offender has legal access.
+23F Theft From Motor Vehicle
+The theft of articles from a motor vehicle, locked or unlocked.
+23H All Other Larceny
+All thefts that do not fit any of the definitions of the specific categories of
+Larceny/Theft listed above or those that are not applicable to cargo theft.
+240 Motor Vehicle Theft
+The theft of a motor vehicle.
+A motor vehicle is a self-propelled vehicle that runs on the surface of land and not on
+rails and that fits one of the following property descriptions:
+Automobiles – sedans, coupes, station wagons, convertibles, taxicabs, sport utility
+vehicles, or other similar motor vehicles that serve the primary purpose of transporting
+people.
+Buses – motor vehicles that are specifically designed (but not necessarily used) to
+transport groups of people on a commercial basis.
+Recreational Vehicles – motor vehicles that are specifically designed (but not
+necessarily used) to transport people and also provide them temporary lodging for
+recreational purposes.
+Trucks – motor vehicles that are specifically designed (but not necessarily used) to
+transport cargo.
+Other Motor Vehicles – any other motor vehicles, e.g., motorcycles, motor scooters,
+trail bikes, mopeds, snowmobiles, or golf carts.
+FRAUD OFFENSES
+The intentional perversion of the truth for the purpose of inducing another person or other
+entity in reliance upon it to part with something of value or to surrender a legal right.
+The most specific subcategory of fraud should be reported whenever the circumstances fit the
+definition of more than one of the subcategories listed below. For example, most frauds would
+fit the definition of false pretenses/swindle/confidence game. But if a credit card was used to
+perpetrate the fraud, the offense would be classified as credit card/automated teller machine
+fraud.
+26A False Pretenses/Swindle/Confidence Game
+The intentional misrepresentation of existing fact or condition or the use of some
+other deceptive scheme or device to obtain money, goods, or other things of value.
+26B Credit Card/Automated Teller Machine Fraud
+The unlawful use of a credit (or debit) card or automated teller machine for fraudulent
+purposes.
+26C Impersonation
+Falsely representing one’s identity or position and acting in the character or position
+thus unlawfully assumed to deceive others and thereby gain a profit or advantage,
+enjoy some right or privilege, or subject another person or entity to an expense,
+charge, or liability that would not have otherwise been incurred.
+26E Wire Fraud
+The use of an electric or electronic communications facility to intentionally transmit a
+false and/or deceptive message in furtherance of a fraudulent activity.
+26F Identity Theft
+Wrongfully obtaining and using another person’s personal data (e.g., name, date of
+birth, Social Security number, driver’s license number).
+This offense includes opening a credit card, bank account, etc. using a person’s information. This
+offense should not be confused with Impersonation (26C) (falsely acting in the character or
+position to unlawfully deceive others to gain a profit or advantage; when impersonating another
+person, the offender would not be in possession of another person’s personal data).
+26G Hacking/Computer Invasion
+Wrongfully gaining access to another person’s or institution’s computer software,
+hardware, or networks without authorized permissions or security clearances.
+270 Embezzlement
+The unlawful misappropriation by an offender to his/her own use or purpose of
+money, property, or some other thing of value entrusted to his/her care, custody, or
+control.
+510 Bribery
+The offering, giving, receiving, or soliciting of anything of value (i.e., a bribe,
+gratuity, or kickback) to sway the judgment or action of a person in a position of
+trust or influence.
+2.5 Location Codes
+This data element is used to report the type of location/premises where each offense in
+an incident took place.
+The FBI’s UCR Program recognizes that for many incidents, there is more than one
+possible choice for reporting a location. Therefore, law enforcement personnel should
+use their best judgment in reporting location type after investigating the crime and
+considering the circumstances surrounding the location and the offender’s intent during
+the commission of the crime.
+Because the geographic location of an incident is not always the same as the functional
+location of the incident, the FBI’s UCR Program relies on agencies to report the most
+appropriate location type. For example, if an offense occurs at an elementary school
+playground during school hours, the location should be classified as 53 = School –
+Elementary/Secondary. But, if the offense occurred at the same physical location on a
+Saturday afternoon when the school is not operating and the public are allowed to use
+the facility for recreational purposes, LEAs would be equally correct in classifying the
+location as 50 = Park/Playground.
+Sometimes, agencies can determine the location by the offender’s intent during the
+commission of the crime. For example, if the offender chose to commit a robbery during
+a church service held at a public facility routinely used for basketball games, agencies
+should choose to classify the location as 04 = Church/Synagogue/Temple/Mosque since
+the building was being used for a public religious activity at the time the crime was
+committed.
+Data Value Data Value Includes
+01 = Air/Bus/Train Terminal airports; bus, boat, ferry, or train stations
+and terminals
+02 = Bank/Savings and Loan other financial institutions, whether in a
+separate building or inside of another store
+Note: This data value does not include
+payday lender type businesses.
+03 = Bar/Nightclub establishments primarily for entertainment,
+dancing, and the consumption of beverages
+Data Value Data Value Includes
+04 = Church/Synagogue/Temple/Mosque buildings for public religious activities,
+meetings, or worship
+05 = Commercial/Office Building establishments that pertain to commerce
+and trade
+06 = Construction Site all buildings/locations that are under some
+type of construction
+07 = Convenience Store establishments primarily for convenience
+shopping, e.g., stores that include the sale
+of other items as well as gasoline
+08 = Department/Discount Store establishments that are considered
+department stores and that sell a wide
+range of goods; Target, Wal-Mart, etc.
+Note: This data value does not include
+shopping malls.
+09 = Drug Store/Doctor’s Office/Hospital medical supply companies and buildings;
+stores that are primarily considered
+pharmacies; veterinary practices, veterinary
+hospitals, and medical practices
+10 = Field/Woods areas that are primarily open fields or
+wooded areas
+Note: This data value does not include
+parks.
+11 = Government/Public Building buildings primarily used for local, state, or
+federal offices, or public businesses
+12 = Grocery/Supermarket establishments primarily used for buying/
+selling food items, etc.
+13 = Highway/Road/Alley/Street/Sidewalk open public ways for the passage of
+vehicles, people, and animals
+Data Value Data Value Includes
+14 = Hotel/Motel/Etc. other temporary lodgings
+Note: This data value does not include
+campgrounds or recreational vehicle parks.
+15 = Jail/Prison/Penitentiary/Corrections Facility places for the confinement of persons in
+lawful detention or awaiting trial
+16 = Lake/Waterway/Beach shorelines, lakes, streams, canals, or bodies
+of water other than swimming pools
+17 = Liquor Store establishments primarily used for buying/
+selling alcoholic beverages
+18 = Parking/Drop Lot/Garage areas primarily used for parking motorized
+vehicles that are commercial in nature
+19 = Rental Storage Facility any mini-storage and/or self-storage
+buildings
+20 = Residence/Home apartments, condominiums, townhouses,
+nursing homes, residential driveways,
+residential yards; extended/continuous care
+facilities
+Note: This data value refers to permanent
+residences.
+21 = Restaurant any commercial establishments that serve
+meals or refreshments; cafeterias
+22 = School/College universities
+Note: This data value was replaced by the
+following new location codes and is to be
+used only by LEAs that have not adopted the
+new codes:
+52 = School – College/University
+53 = School – Elementary/Secondary
+Data Value Data Value Includes
+23 = Service/Gas Station establishments where motor vehicles are
+serviced and gasoline, oil, etc., are sold
+24 = Specialty Store fur stores, jewelry stores, television stores,
+dress shops, and clothing stores, etc.;
+payday lender type businesses
+25 = Other/Unknown any location that does not fit in one of the
+other defined data values or when the
+location of the incident is unknown
+37 = Abandoned/Condemned Structure buildings or structures which are completed
+but have been abandoned by the owner and
+are no longer being used
+Note: This data value does not include
+vacant rental property. LEAs should use the
+data value that best describes the property
+in question, e.g., vacant rental house should
+be classified as 20 = Residence/Home,
+vacant convenience store that is for rent
+should be classified as 07 = Convenience
+Store, etc.
+38 = Amusement Park indoor or outdoor, permanent or
+temporary, commercial enterprises that
+offer rides, games, and other entertainment
+39 = Arena/Stadium/Fairgrounds/Coliseum open-air or enclosed amphitheater-type
+areas designed and used for the
+presentation of sporting events, concerts,
+assemblies, etc.
+40 = ATM Separate from Bank machines that provide the ability to make
+deposits and/or withdrawals using a bank
+card; Automated Teller Machine (ATM)
+machines located inside a mall or store
+Note: LEAs should use 02 = Bank/Savings
+and Loan if the ATM is located at a banking
+facility.
+Data Value Data Value Includes
+41 = Auto Dealership New/Used businesses specifically designed for selling
+new and used motor vehicles
+Note: This data value also includes the
+parking lots and garages of these facilities.
+42 = Camp/Campground areas used for setting up camps, including
+tent and recreational vehicle campsites
+44 = Daycare Facility facilities that provide short-term
+supervision, recreation, and/or meals for
+adults or children during the daytime or at
+night; respite care facilities for seniors or for
+physically or mentally challenged individuals
+45 = Dock/Wharf/Freight/Modal Terminal separate facility with platforms at which
+trucks, ships, or trains load or unload cargo
+Note: This data value does not include
+cargo bays attached to a department store
+or shopping mall. LEAs should classify these
+as 08 = Department/Discount Store or
+55 = Shopping Mall, respectively.
+46 = Farm Facility facilities designed for agricultural
+production or devoted to the raising and
+breeding of animals, areas of water devoted
+to aquaculture, and/or all building or
+storage structures located there; grain bins
+Note: LEAs should classify the house on a
+farm as 20 = Residence/Home.
+47 = Gambling Facility/Casino/Race Track indoor or outdoor facilities used to legally
+bet on the uncertain outcome of games of
+chance, contests, and/or races
+Data Value Data Value Includes
+48 = Industrial Site active manufacturing locations, factories,
+mills, plants, etc., specifically designed for
+the manufacturing of goods
+Note: This data value does not include
+abandoned facilities. LEAs should classify
+these as 37 = Abandoned/Condemned
+Structure.
+49 = Military Installation locations specifically designed and used for
+military operations
+50 = Park/Playground areas of land set aside for public use usually
+maintained for recreational or ornamental
+purposes; soccer fields, baseball fields
+51 = Rest Area designated areas, usually along a highway,
+where motorists can stop
+52 = School – College/University institutions for the higher education of
+individuals, which gives instruction in
+specialized fields; community colleges; trade
+schools
+53 = School – Elementary/Secondary institutions for the instruction of children
+from preschool through 12th grade
+54 = Shelter – Mission/Homeless establishments that provide temporary
+housing for homeless individuals and/or
+families; venues set up as temporary
+shelters, i.e., a shelter set up in a church or
+school during a storm
+55 = Shopping Mall indoor or outdoor shopping areas and/or
+centers with multiple (two or more) stores
+and/or businesses; strip malls
+Note: LEAs should use the data value that
+best describes the location in question.
+Data Value Data Value Includes
+56 = Tribal Lands Native American reservations, communities,
+and/or trust lands
+Note: The FBI UCR Program intends that
+non-tribal LEAs will primarily use this data
+value. Tribal Agencies should use the data
+value that best describes the location in
+question.
+57 = Community Center public locations where members of a
+community gather for group activities, social
+activities, public information, and other
+purposes; they may sometimes be open for
+the whole community or for a specialized
+group within the greater community;
+Christian community center; Islamic
+community center; Jewish community
+center; youth clubs, etc.
+2.6 Weapon/Force Involved Codes
+This category should be used to enter the type(s) of weapon(s) or force used by the offender(s)
+in committing the following offenses:
+09A Murder and Nonnegligent Manslaughter
+09B Negligent Manslaughter
+09C Justifiable Homicide
+100 Kidnapping/Abduction
+11A Rape
+11B Sodomy
+11C Sexual Assault With an Object
+11D Fondling
+120 Robbery
+13A Aggravated Assault
+13B Simple Assault
+210 Extortion/Blackmail
+520 Weapon Law Violations
+If the weapon was an automatic firearm, an “A” should be added as a suffix to its code, e.g.,
+13A = Automatic Rifle. An automatic firearm is defined as any firearm which shoots, or is
+designed to shoot, more than one shot at a time by a single pull of the trigger without manual
+reloading.
+There are 17 Cargo Theft weapon/force involved categories. They are listed below in numerical
+order. Each entry includes the following information:
+• Cargo Theft weapon/force involved code
+• Considerations and examples (as appropriate)
+Data Value Data Value Includes
+11 = Firearm
+12 = Handgun
+13 = Rifle
+14 = Shotgun
+15 = Other Firearm
+20 = Knife/Cutting Instrument ax, ice pick, screwdriver, or switchblade
+30 = Blunt Object club, hammer
+35 = Motor Vehicle when used as a weapon
+40 = Personal Weapons hands, feet, teeth
+50 = Poison
+60 = Explosives
+65 = Fire/Incendiary Device
+70 = Drugs/Narcotics/Sleeping Pills
+85 = Asphyxiation drowning, strangulation, suffocation, gas
+any weapon or force, including deadly
+diseases, not fitting the above specifically
+90 = Other coded weapons/force
+95 = Unknown
+99 = None
+2.7 Victim Type Codes
+This category should be used to enter the victim type.
+Data Value
+I = Individual
+B = Business
+F = Financial Institution
+G = Government
+R = Religious Organization
+S = Society/Public
+L = Law Enforcement Officer
+O = Other
+U = Unknown
+2.8 Property Codes
+This category should be used to describe the type(s) of property loss, recover, seizure, etc.,
+which occurred in an incident involving one or more of the following offenses:
+100 Kidnapping/Abduction (Although this is a crime against person, a property
+segment is required)
+120 Robbery
+200 Arson
+210 Extortion/Blackmail
+220 Burglary/Breaking and Entering
+23A Pocket-Picking
+23B Purse-Snatching
+23C Shoplifting
+23D Theft From Building
+23E Theft From Coin-Operated Machine or Device
+23F Theft From Motor Vehicle
+23G Theft of Motor Vehicle Parts or Accessories
+23H All Other Larceny
+240 Motor Vehicle Theft
+250 Counterfeiting/Forgery
+26A False Pretenses/Swindle/Confidence Game
+26B Credit Card/Automated Teller Machine Fraud
+26C Impersonation
+26D Welfare Fraud
+26E Wire Fraud
+26F Identity Theft
+26G Hacking/Computer Invasion
+270 Embezzlement
+280 Stolen Property (Receiving, etc.)
+290 Destruction/Damage/Vandalism of Property
+35A Drug/Narcotic Violations
+35B Drug Equipment Violations
+39A Betting/Wagering
+39B Operating/Promoting/Assisting Gambling
+39C Gambling Equipment Violations
+39D Sports Tampering
+510 Bribery
+Each entry includes the following information:
+• Cargo Theft property code
+• Considerations and examples (as appropriate)
+Data Value Data Value Includes
+01 = Aircraft machines or devices capable of atmospheric
+flight; airplanes, helicopters, dirigibles,
+gliders, ultra-lights, hot air balloons, blimps,
+etc.
+Note: This data value does not include toy
+planes; LEAs should classify these as 19 =
+Merchandise or 77 = Other, as appropriate.
+02 = Alcohol any intoxicating liquors containing alcohol
+used for human consumption; alcoholic
+beverages, i.e., beer, wine, and liquor
+Note: Denatured alcohol can be classified
+as either 45 = Chemicals or 64 = Fuel
+depending on how it was used in the
+incident. LEAs should classify rubbing
+alcohol as 08 = Consumable Goods.
+03 = Automobiles any passenger vehicles designed for
+operation on ordinary roads and typically
+having four wheels and a motor with the
+primary purpose of transporting people
+other than public transportation; sedans,
+taxicabs, minivans, sport-utility vehicles,
+limousines, and other similar motor vehicles
+04 = Bicycles vehicles usually propelled by pedals,
+connected to the wheel by a chain, and have
+handlebars for steering and a saddle-like
+seat; tandem bicycles, unicycles, and
+tricycles
+05 = Buses motor vehicles specifically designed, but not
+necessarily used, to transport groups of
+people on a commercial basis; trolleys,
+school/coach/tourist/double-decker buses,
+commercial vans, etc.
+Data Value Data Value Includes
+06 = Clothes/Furs garments for the body, articles of dress,
+wearing apparel for human use; accessories
+such as belts, shoes, scarves, ties, etc.;
+eyewear/glasses, hearing aids, etc.
+07 = Computer Hardware/Software electrical components making up a
+computer system, written programs/
+procedures/rules/associated documentation
+pertaining to the operation of a computer
+system stored in read/write memory;
+computers, printers, storage media, video
+games, software packages, video consoles
+such as Wii®, PlayStation®, and Xbox®
+08 = Consumable Goods expendable items used by humans for
+nutrition, enjoyment, or hygiene; food,
+non-alcoholic beverages, grooming
+products, cigarettes, firewood, etc.
+09 = Credit/Debit Cards cards and/or the account number
+associated with the cards that function like a
+check and through which payments or credit
+for purchases or services are made
+electronically to the bank accounts of
+participating establishments directly from
+the cardholders’ accounts; automated teller
+machine (ATM) cards, electronic benefit
+transfer (EBT) cards
+Note: This data value does not include gift
+cards; LEAs should classify these as
+77 = Other.
+10 = Drugs/Narcotics substances such as narcotics or
+hallucinogens that affect the central
+nervous system causing changes in behavior
+and often addiction; prescription, over-the-
+counter, legal, and illegal drugs
+Data Value Data Value Includes
+11 = Drug/Narcotic Equipment unlawful articles, items, products, etc. used
+to prepare and consume drugs or narcotics;
+glass pipes, bongs, pop cans,
+methamphetamine (meth) labs, etc.
+12 = Farm Equipment any kind of machinery used on a farm to
+conduct farming; tractors, combines, etc.
+13 = Firearms weapons that fire a projectile by force of an
+explosion; handguns, rifles, shotguns,
+assault rifles, semiautomatics, homemade
+guns, flare guns, etc.
+Note: This data value does not include
+“BB,” pellet, or gas-powered guns. LEAs
+should classify these as 80 = Weapons –
+Other.
+14 = Gambling Equipment any equipment or devices used to produce,
+manufacture, or perpetrate gambling; slot
+machines, keno, card tables, poker chips,
+bingo, raffles, lottery tickets, etc.
+15 = Heavy Construction/Industrial Equipment large-scale equipment used in the
+construction of buildings, roads, etc.;
+cranes, bulldozers, steamrollers, oil-drilling
+rigs, backhoes, excavators, etc.
+16 = Household Goods items normally used to furnish a residence;
+furniture, appliances, utensils, air
+conditioning/heating equipment, mailboxes,
+household lighting, etc.
+Note: This data value does not include
+radios, televisions, digital video disc (DVD)
+or compact disc (CD) players, etc.; LEAs
+should classify these as 26 =
+Radios/TVs/VCRs/DVD Players and the
+media for such devices as
+27 = Recordings – Audio/Visual.
+Data Value Data Value Includes
+17 = Jewelry/Precious Metals/Gems articles made of gold, silver, precious
+stones, etc. used for personal adornment;
+bracelets, necklaces, rings, watches,
+platinum, loose gems, etc.
+18 = Livestock domesticated animals raised for home use
+or profit; cattle, chickens, hogs, horses,
+sheep, bees, household pets such as dogs
+and cats if commercially raised for profit,
+animals raised and/or used for illegal
+gambling, e.g., dogs, roosters, etc.
+19 = Merchandise items/goods which are exposed or held for
+sale
+Note: LEAs should use a more specific data
+value whenever possible.
+20 = Money any circulating medium of exchange, legal
+tender, currency; coins, paper money,
+demand deposits, etc.; counterfeited
+currency
+21 = Negotiable Instruments any documents, other than currency, that
+are payable without restriction; an
+unconditional promise or order of payment
+to a holder upon issue, possession, on
+demand, or at a specific time; endorsed
+checks (including forged checks that have
+been endorsed), endorsed money orders,
+endorsed traveler’s checks, bearer checks,
+and bearer bonds
+22 = Nonnegotiable Instruments documents requiring further action to
+become negotiable; unendorsed checks,
+money orders, traveler’s checks, stocks,
+bonds, blank checks, etc.
+Data Value Data Value Includes
+23 = Office-type Equipment items normally used in an office/business
+setting; calculators, cash registers, copying
+machines, facsimile machines, shredders,
+etc.
+Note: LEAs should use a more specific data
+value whenever possible.
+24 = Other Motor Vehicles motorized vehicles that do not fit the
+definition of automobile, bus, truck, or
+recreational vehicle; motorcycles, motor
+scooters, trail bikes, mopeds, snowmobiles,
+motorized golf carts, motorized wheelchairs,
+all-terrain vehicles, go-carts, Segways®, etc.
+25 = Purses/Handbags/Wallets bags or pouches used for carrying articles
+such as money, credit/debit cards, keys,
+photographs, and other miscellaneous
+items; briefcases, fanny packs, and
+backpacks when used as a purse/wallet
+26 = Radios/TVs/VCRs/DVD Players items used to transmit audible signals and
+visual images of moving and stationary
+objects; high fidelity and stereo equipment,
+CD players, MP3 players, cable boxes, etc.
+Note: This data value does not include
+radios/stereos installed in vehicles; LEAs
+should classify these as 38 = Vehicle Parts/
+Accessories.
+27 = Recordings – Audio/Visual phonograph records or blank or recorded
+tapes or discs upon which the user records
+sound and/or visual images; CDs, DVDs,
+cassettes, VHS tapes, etc.
+28 = Recreational Vehicles motor vehicles that are specifically
+designed, but not necessarily used, to
+transport people and also provide them
+temporary lodging for recreational purposes
+Data Value Data Value Includes
+29 = Structures – Single Occupancy Dwellings buildings occupied by single families,
+individuals, or housemates, commonly
+referred to as houses, mobile homes,
+townhouses, duplexes, etc.
+30 = Structures – Other Dwellings any other residential dwellings not meeting
+the definition of 29 = Structures – Single
+Occupancy Dwellings; apartments,
+tenements, flats, boarding houses,
+dormitories; temporary living quarters such
+as hotels, motels, inns, bed and breakfasts
+31 = Structures – Other Commercial/Business buildings designated for or occupied by
+enterprises engaged in the buying and
+selling of commodities or services,
+commercial trade, or forms of gainful
+activity that have the objective of supplying
+commodities; stores, office buildings,
+restaurants, etc.
+32 = Structures – Industrial/Manufacturing buildings designated for or occupied by
+enterprises engaged in the production or
+distribution of goods, refined and unrefined,
+for use by industry; factories, plants,
+assembly lines, etc.
+33 = Structures – Public/Community buildings used by a group of people for
+social/cultural/group/recreational activities,
+common interests, classes, etc.; colleges,
+hospitals, jails, libraries, meeting halls,
+passenger terminals, religious buildings,
+schools, sports arenas, etc.
+34 = Structures – Storage buildings used for storing goods, belongings,
+merchandise, etc.; barns, garages,
+storehouses, warehouses, sheds, etc.
+Data Value Data Value Includes
+35 = Structures – Other any other types of structures not fitting the
+descriptions of the previous types of
+structures listed (i.e., in data values 29
+through 34); outbuildings, monuments,
+buildings under construction, etc.
+36 = Tools hand-held implements that are used in
+accomplishing work; hand and power tools
+37 = Trucks motor vehicles which are specifically
+designed, but not necessarily used, to
+transport cargo on a commercial basis, or
+vehicles designed for transporting loads
+38 = Vehicle Parts/Accessories items attached to the inside or outside of a
+vehicle; motor vehicle batteries, engines,
+transmissions, heaters, hubcaps, tires,
+radios, CD/DVD players, automotive global
+positioning system (GPS) navigation
+systems, etc.
+39 = Watercraft vehicles used in the water, propelled by a
+motor, paddle, or sail; motorboats,
+sailboats, canoes, fishing boats, jet skis, etc.
+41 = Aircraft Parts/Accessories parts or accessories of an aircraft, whether
+inside or outside
+Note: This data value does not include
+aircrafts that are intact or model/toy planes;
+LEAs should classify complete aircraft as
+01 = Aircraft and model/toy planes as
+77 = Other.
+42 = Artistic Supplies/Accessories items or equipment used to create or
+maintain paintings, sculptures, crafts, etc.;
+frames, oil paints, clay
+Data Value Data Value Includes
+43 = Building Materials items used to construct buildings; lumber,
+concrete, gravel, drywall, bricks, plumbing
+supplies, uninstalled windows, uninstalled
+doors, etc.
+Note: This data value does not include
+items stolen from a completed building.
+LEAs should classify copper wire, aluminum,
+etc., as 71 = Metals, Non-Precious.
+44 = Camping/Hunting/Fishing Equipment/Supplies items, tools, or objects used for recreational
+camping, hunting, or fishing; tents, camp
+stoves, fishing poles, sleeping bags, etc.
+Note: LEAs should classify rifles, pistols, and
+shotguns as 13 = Firearms.
+45 = Chemicals substances with distinct molecular
+compositions that are produced by or used
+in chemical processes; herbicides, paint
+thinner, insecticides, industrial or household
+products, solvents, fertilizers, lime, mineral
+oil, antifreeze, etc.
+Note: LEAs should classify chemicals used in
+conjunction with illegal drug activity as
+10 = Drugs/Narcotics or 11 = Drug/Narcotic
+Equipment, as appropriate.
+46 = Collections/Collectibles objects that are collected because they
+arouse interest due to being novel, rare,
+bizarre, or valuable; art objects, stamp/
+baseball/comic book collections
+Note: LEAs should use a more specific data
+value whenever possible. For example, a
+collection of old guns should be classified as
+13 = Firearms.
+Data Value Data Value Includes
+47 = Crops cultivated plants or agricultural produce
+grown for commercial, human, or livestock
+consumption and use that is usually sold in
+bulk; grains, fruits, vegetables, tobacco,
+cotton
+Note: This data value does not include
+crops that yield illegal substances. LEAs
+should classify crops used in conjunction
+with illegal drug activity as 10 = Drugs/
+Narcotics or 11 = Drug/Narcotic Equipment,
+as appropriate.
+48 = Documents/Personal or Business includes affidavits, applications, certificates,
+credit card documents, savings account
+books, titles, deposit slips, pawn shop slips,
+patents, blueprints, bids, proposals,
+personal files, and U.S. mail
+Note: This data value does not include
+identity documents.
+49 = Explosives devices that explode or cause an explosion;
+bombs, dynamite, Molotov cocktails,
+fireworks, ammunition, etc.
+59 = Firearm Accessories items used in conjunction with a firearm to
+improve ease of use or maintenance; gun
+belts, cases, cleaning tools/equipment,
+targets, aftermarket stocks, laser sights,
+rifle/spotting/handgun scopes
+64 = Fuel products used to produce energy; coal,
+gasoline, diesel, biodiesel, natural gas, oil
+65 = Identity Documents formal documents and/or their numbers
+that provide proof pertaining to a specific
+individual’s identity; passports, visas,
+driver’s licenses, social security cards, alien
+registration cards, voter registration cards,
+etc.
+Data Value Data Value Includes
+66 = Identity – Intangible sets of characteristics or behavioral or
+personal traits by which an entity or person
+is recognized or known; damaged
+reputation, disclosed confidential
+information, etc.
+67 = Law Enforcement Equipment anything specifically used by law
+enforcement personnel during the
+performance of their official duties; vests,
+uniforms, handcuffs, flashlights, nightsticks,
+badges, etc.; canines (K-9s), horses, etc.
+Note: This data value does not include
+firearms. LEAs should classify firearms as
+13 = Firearms and should select the most
+appropriate motor vehicle or other mobile
+property data value when applicable, e.g.,
+01 = Aircraft, 39 = Watercraft, 24 = Other
+Motor Vehicles.
+68 = Lawn/Yard/Garden Equipment equipment used for maintaining and
+decorating lawns and yards; mowers, line
+trimmers, tools, tillers, etc.
+Note: This data value does not include
+plants, trees, fountains, bird baths, etc.
+69 = Logging Equipment equipment specifically used by logging
+industry personnel during the performance
+of their duties; choker cables, binders,
+blocks, etc.
+70 = Medical/Medical Lab Equipment equipment specifically used in the medical
+field; X-ray machines, testing equipment,
+magnetic resonance imaging (MRI)
+machines, ultrasound machines,
+wheelchairs, stethoscopes, etc.
+Data Value Data Value Includes
+71 = Metals, Non-Precious base metals or alloys possessing luster,
+malleability, ductility, and conductivity of
+electricity and heat; ferrous and non-ferrous
+metals such as iron, steel, tin, aluminum,
+copper, brass, copper wire, copper pipe, etc.
+72 = Musical Instruments instruments relating to or capable of
+producing music; percussion, brass,
+woodwind, and string instruments, etc.;
+guitar strings, picks, drum sticks, etc.
+73 = Pets animals kept for pleasure or companionship,
+other than livestock; dogs, household birds,
+fish, rodents, reptiles, and exotic animals
+raised as pets and not for profit
+74 = Photographic/Optical Equipment equipment used to take photographs and/or
+relating to the science of optics or optical
+equipment; cameras, camcorders,
+telescopes, lenses, prisms, optical scanners,
+binoculars, monoculars, etc.
+Note: This data value does not include
+camera phones. LEAs should classify these
+as 75 = Portable Electronic Communications.
+75 = Portable Electronic Communications electronic devices used to communicate
+audible or visual messages; cell phones,
+camera phones, pagers, personal digital
+assistants (PDAs), BlackBerrys®, Gameboy®,
+iPads®, iPods®, Kindles®, Nooks®, etc.
+76 = Recreational/Sports Equipment equipment and materials used for
+recreational purposes, or during sports
+activities; skis, balls, gloves, weights, nets,
+bats, rackets, team uniforms, etc.
+77 = Other all other property not fitting the specific
+descriptions of the data values identified
+Data Value Data Value Includes
+78 = Trailers transportation devices designed to be
+hauled by a motor vehicle; truck trailers,
+semi-trailers, utility trailers, farm trailers,
+etc.
+79 = Watercraft Equipment/Parts/Accessories watercraft equipment or accessories that
+are used for the crafts’ maintenance or
+operation; buoys, life preservers, paddles,
+sails
+Note: This data value does not include
+accessories for water sports. LEAs should
+classify these as 76 = Recreational/Sports
+Equipment.
+80 = Weapons – Other weapons not classified under other
+categories; knives, swords, nunchakus, brass
+knuckles, crossbows, bows and arrows,
+pepper spray, tasers, sling shots, “BB” guns,
+pellet guns, gas-powered guns, paintball
+guns, etc.
+88 = Pending Inventory items whose property description is
+unknown until an inventory is conducted
+99 = (blank) this data value is a special data value used at
+the discretion of the FBI’s UCR Program to
+compile statistics on certain designated
+types of property, which are the object of
+theft fads; it is not currently used
+3 Submissions
+Cargo Theft statistical reporting data may be submitted to the FBI via: (1) the NIBRS, (2) Cargo
+Theft Incident Report, or (3) Cargo Theft Technical Specification.
+3.1 NIBRS
+The FBI’s UCR Program adopted a new data element, 2A Cargo Theft, within the Administrative
+Segment of the NIBRS in order to flag the incident as a Cargo Theft. In addition, this data
+element is mandatory for specific crimes against property, which are applicable to Cargo Theft.
+Participating agencies should note implementation of the new NIBRS data element must be
+consistent among all reporting agencies within a state. Therefore, either all or none of the
+agencies that report NIBRS data within a state must report cargo theft data via the new NIBRS data
+element.
+This section furnishes information regarding the submission of cargo theft data into the NIBRS. The
+following excerpts on Cargo Theft can be found in the NIBRS Technical Specification.
+3.1.1 Data Elements and Data Values
+Data Elements are data fields used in NIBRS to describe the details of each component of a
+crime, i.e., victims, offenders, arrestees, and circumstances.
+For example, Data Element 2A Cargo Theft – 1 character (Y=Yes or N=No; enter only one):
+This data element is to be used to indicate whether or not the incident involved a cargo
+theft. This data element can only be entered when the incident has at least one of the 13
+offenses listed under 2.2.1 Group A Cargo Theft Offenses.
+Data Values are the specific codes that can be entered into a data element. Data values are
+codes from an approved list, each followed by an equal sign (=) and a description of the data
+value.
+For example, for Data Element 3 (Incident Date), the specific format for the data value is
+YYYYMMDD. For Data Element 27 (Sex of Victim), agencies may enter one of the codes M =
+Male, F = Female, or U = Unknown to describe the gender of the victim; but for Data
+Element 48 (Sex of Arrestee), agencies can enter only M = Male or F = Female to describe the
+gender of the arrestee.
+3.2 Cargo Theft Incident Report
+The Cargo Theft Incident Report is separate from and in addition to the routine SRS submission.
+Reporting agencies must remember that the Hierarchy Rule does not apply when reporting a cargo
+theft. If a cargo theft occurs in a multiple-offense incident, the reporting LEA must first report the
+Cargo Theft-related offense and then up to an additional four offense(s). It should also be noted
+reporting attempts to commit cargo theft is not applicable to this data collection. Agencies that
+submit data to the FBI’s UCR Program via the SRS should report incidents of cargo theft on the Cargo
+Theft Incident Report via a Microsoft Excel worksheet.
+3.3 Cargo Theft Technical Specifications
+The FBI UCR staff prepared the Cargo Theft Technical Specification, available electronically at
+<www.fbi.gov>, to provide the technical requirements for submitting cargo theft data in an
+electronic format. NIBRS states not able to make the programming changes to their RMS could
+adopt this submission method.
+4 Scenarios of Cargo Theft
+In each of the following scenarios, it shall be assumed that all cargo is moving in commerce, i.e.,
+commercial shipment and in the supply chain, at all points between the point of origin and the final
+destination (exchange bill of lading), regardless of any temporary stop while awaiting transshipment
+or otherwise.
+Scenario 1: An armed suspect hijacked an 18-wheeler and kidnapped the driver (UCR
+Offense Codes 100 Kidnapping/Abduction and 120 Robbery). The suspect then transferred
+the stolen cargo to another trailer.
+Scenario 2: Four men wearing ski masks conducted armed robbery at a trucking facility
+(UCR Offense Code 120 Robbery). Two of the men held the guards at gunpoint while the
+other two men jumped into an idling truck nearby and drove off with the cargo.
+Scenario 3: A suspect was employed at a wholesale tobacco warehouse. After hours, the
+employee gained entry into the warehouse and removed 4,000 cartons of cigarettes (UCR
+Offense Code 220 Burglary). The inventory was slated for shipment to local retailers.
+Scenario 4: A delivery driver stopped at a truck stop for a short break and exited, leaving
+the vehicle unattended. A short time later, the driver returned to the vehicle and
+discovered the cargo missing from the box truck (UCR Offense Code 23F Theft From Motor
+Vehicle).
+Scenario 5: Unknown suspects entered the terminal grounds of Carrier XYZ by cutting a section
+of fence. The suspects then broke into a loaded unattached trailer and removed the cargo
+(UCR Offense Code 23H All Other Larceny).
+Scenario 6: The driver of an 18-wheeler accepted a bribe to “look the other way” (UCR
+Offense Code 510 Bribery) while his load of cargo was being “stolen” (UCR Offense Code 23F
+Larceny From a Motor Vehicle).
+Scenario 7: Two individuals worked for Company Y, loading and unloading cargo.
+Employee A discovered that Employee B was using drugs on the job. Employee A
+threatened to reveal his drug use to their employer. As payment for keeping silent,
+Employee A demanded a partial shipment of plasma TVs (UCR Offense Code 210
+Extortion/Blackmail).
+Scenario 8: The owner/driver of a tractor trailer stopped at a post office to check his
+mail, leaving the vehicle running and unlocked. When he returned, both the rig and
+cargo were gone (UCR Offense Code 240 Motor Vehicle Theft).
+Scenario 9: An air cargo worker stole a shipment of military supplies from an all-cargo
+aircraft, which was scheduled for delivery to military personnel oversees (UCR Offense
+Code 270 Embezzlement).
+Scenario 10: A man, posing as an indirect air carrier employee (UCR Offense Code 26C
+Impersonation) picked up a truck and trailer from a consolidation facility, which was
+slated for delivery to an airport sorting center (UCR Offense Code 240 Motor Vehicle
+Theft).
+Scenario 11: Five suspects entered a slow-moving freight train, which was transporting
+cargo from the freight yard to numerous destinations. The suspects used various tools to
+break into the shipping containers. The merchandise was then thrown off the train
+and accomplices on the ground gathered the stolen merchandise (UCR Offense Code
+220 Burglary/Breaking and Entering).
+Scenario 12: A suspect worked on the dock at a port facility, loading and unloading
+cargo containers. After hours, the suspect entered the shipping yard and stole a chassis
+and intermodal container loaded with automobile tires (UCR Offense Code 23H All
+Other Larceny).
+Scenario 13: An employee used the Internet to gain unauthorized access to the
+shipping records for Company ABC (UCR Offense Code 270 Embezzlement). The
+employee then obtained corporate credit card information and pre-paid the freight fees
+for a shipment of imported wines (UCR Offense Code 26B Credit Card/Automated Teller
+Machine Fraud). Via computer, the suspect illegally diverted the shipment to an
+alternate address (UCR Offense Code 26E Wire Fraud).
+5 Scenarios of Incidents Not Meeting Cargo Theft Guidelines
+The following scenarios do not meet Cargo Theft guidelines because these shipments are no
+longer a “commercial shipment” or “in the supply chain.”
+Scenario 1: A letter carrier was delivering mail in a neighborhood when the mail was
+stolen from the carrier’s vehicle. Once the U.S. mail left a final distribution point, it is no
+longer considered cargo because it is no longer in the supply chain. The agency should
+report the incident as a Theft From a Motor Vehicle (UCR Offense Code 23F Theft From
+a Motor Vehicle), but the incident is not considered a cargo theft. Data Element 2A
+should be N=No.
+Scenario 2: During a delivery of a refrigerator for installation to an individual’s home,
+the driver of the truck was carjacked while stopped at a traffic light. The agency should
+report the incident as a Robbery (UCR Offense Code 120 Robbery), but the incident is
+not considered a cargo theft because the refrigerator is not in the supply chain. Data
+Element 2A should be N=No.
+6 Quality Assurance Review (QAR) Process
+The QAR is a value-added service of the CJIS Audit Unit designed to augment the FBI’s UCR
+Program by providing a mechanism to assess the performance of UCR Programs and to validate
+the quality of the data that is submitted to the FBI UCR Program. The QAR focuses on
+performance based UCR standards. Specifically, the QAR is designed to ensure that UCR
+Programs conform to the FBI’s UCR Program’s submission standards, definitions, and
+specifications; establish data integrity procedures; and assist contributing agencies in quality
+assurance practices. The national QAR assesses NIBRS and SRS reporting methods. QAR
+participation is voluntary. However, the FBI’s UCR Program strongly encourages participation
+in order to improve the accuracy of the crime statistics in the United States.
+7 APPENDIX A – Legislation
+H.R. 3199 – USA Patriot Improvement and Re-authorization Act of 2005
+§ [Sec. 308] (a) Theft of Interstate or Foreign Shipments. – Section 659 of title 18, United States
+Code, is amended—
+(1) In the first undesignated paragraph—
+(a) by inserting “trailer,” after “motortruck,”;
+(b) by inserting “air cargo container,” after “aircraft,”; and
+(c) by inserting “, or from any intermodal container, trailer, container freight station,
+warehouse, or freight consolidation facility,” after “air navigation facility”;
+(2) In the fifth undesignated paragraph, by striking “in each case” and all that follows
+through “or both” the second place it appears and inserting “be fined under this title
+or imprisoned not more than 15 years, or both, but if the amount or value of such
+money, baggage, goods, or chattels is less than $1,000, shall be fined under this title
+or imprisoned for not more than 5 years, or both “; and
+(3) By inserting after the first sentence in the eighth undesignated paragraph the
+following: “For purposes of this section, goods and chattel shall be construed to be
+moving as an interstate or foreign shipment at all points between the point of origin
+and the final destination (as evidenced by the waybill or other shipping document of
+the shipment), regardless of any temporary stop while awaiting transshipment or
+otherwise.”.
+(b) Stolen Vessels.—
+(1) In General.—Section 2311 of title 18, United States Code, is amended by adding at
+the end of the following: “ ‘vessel’ means any watercraft or other contrivance used
+or designed for transportation or navigation on, under, or immediately above,
+water.”.
+(2) Transportation and Sale of Stolen Vessels.—
+(A) Transportation.—Section 2312 of title 18, United States Code, is amended—
+(i) by striking “motor vehicle or aircraft” and inserting “motor vehicle, vessel or
+aircraft”; and
+(ii) by striking “10 years” and inserting “15 years”.
+(B) ) Sale.—Section 2313(a) of title 18, United States Code, is amended—
+(i) by striking “motor vehicle or air craft” and inserting “motor vehicle, vessel, or
+aircraft”; and
+(ii) by striking “10 years” and inserting “15 years”.
+(C) Review of Sentencing Guidelines.—Pursuant to section 994 of title 28, United
+States Code, the United States Sentencing Commission shall review the Federal
+Sentencing Guidelines to determine whether sentencing enhancement is
+appropriate for any offense under section 659 or 2311 of title 18, United States
+Code, as amended by this title.
+(D) Annual Report of Law Enforcement Activities.—The Attorney General shall
+annually submit to Congress a report, which shall include an evaluation of law
+enforcement activities relating to the investigation and prosecution of offenses under section
+659 of title 18, United States Code, as amended by this title.
+Reporting of Cargo Theft.—The Attorney General shall take the steps necessary to ensure that
+reports of cargo theft collected by Federal, State, and local officials are reflected as a separate
+category in the Uniform Crime Reporting System, or any successor system, by no later than
+December 31, 2006.
+8 APPENDIX C – Submitting Cargo Theft Data to the FBI’s UCR Program
+There are three methods for reporting cargo theft data to the FBI’s UCR Program: the Cargo
+Theft Data Element 2A in the Administrative Segment of NIBRS, the Cargo Theft Incident
+Report via the Microsoft Excel worksheet, and the Cargo Theft Technical Specification.
+The Cargo Theft offense crime categories and all UCR Offense categories are listed below in
+numerical order. Following the name of each crime is the UCR Offense Code. See Appendix D,
+UCR offense definitions for more information about a specific UCR offense.
+Cargo Theft Offenses
+UCR
+Offense Offense
+Code
+Robbery 120
+Extortion/Blackmail 210
+Burglary/Breaking & Entering 220
+Larceny/Theft Offenses
+Theft From Building 23D
+Theft From Motor Vehicle 23F
+All Other Larceny 23H
+Motor Vehicle Theft 240
+Fraud Offenses
+False Pretenses/Swindle/Confidence Game 26A
+Credit Card/Automatic Teller Machine Fraud 26B
+Impersonation 26C
+Wire Fraud 26E
+Embezzlement 270
+Bribery 510
+UCR Offenses
+UCR
+Offense Offense
+Code
+Homicide Offenses
+Murder and Nonnegligent Manslaughter 09A
+Negligent Manslaughter 09B
+Kidnapping/Abduction 100
+Sex Offenses
+Rape 11A
+UCR
+Offense Offens
+e Code
+Sodomy 11B
+Sexual Assault with an Object 11C
+Fondling 11D
+Incest 36A
+Statutory Rape 36B
+Assault Offenses
+Aggravated Assault 13A
+Simple Assault 13B
+Intimidation 13C
+Robbery 120
+Arson 200
+Extortion/Blackmail 210
+Burglary/Breaking & Entering 220
+Larceny/Theft Offenses
+Pocket-Picking 23A
+Purse-snatching 23B
+Shoplifting 23C
+Theft From Building 23D
+Theft From Motor Vehicle 23F
+Theft From Motor Vehicle Parts or Accessories 23G
+All Other Larceny 23H
+Motor Vehicle Theft 240
+Counterfeiting 250
+Fraud Offenses
+False Pretenses/Swindle/Confidence Game 26A
+Credit Card/Automated Teller Machine Fraud 26B
+Impersonation 26C
+Welfare Fraud 26D
+Wire Fraud 26E
+Identity Theft 26F
+Hacking/Computer Invasion 26G
+Embezzlement 270
+Stolen Property Offenses 280
+Destruction/Damage/Vandalism of Property 290
+Drug/Narcotic Offenses
+Drug/Narcotic Violations 35A
+UCR
+Offense Offense
+Code
+Drug Equipment Violations 35B
+Pornography/Obscene Material 370
+Gambling Offenses
+Betting/Wagering 39A
+Operating/Promoting/Assisting Gambling 39B
+Gambling Equipment Violations 39C
+Sports Tampering 39D
+Prostitution Offenses
+Prostitution 40A
+Assisting or Promoting Prostitution 40B
+Purchasing Prostitution 40C
+Bribery 510
+Weapon Law Violations 520
+Human Trafficking
+Human Trafficking – Commercial Sex Acts 64A
+Human Trafficking – Involuntary Servitude 64B
+9 APPENDIX D – UCR Offense Definitions
+UCR OFFENSES
+There are 47 offense categories. The offense categories are listed below in numerical order.
+Each entry includes the following information:
+3.1 UCR offense code, offense name
+3.2 Definition
+3.3 Considerations and examples (as appropriate)
+09A-09B HOMICIDE OFFENSES
+The killing of one human being by another.
+09A Murder and Nonnegligent Manslaughter
+The willful (nonnegligent) killing of one human being by another.
+09B Negligent Manslaughter
+The killing of another person through negligence.
+100 Kidnapping/Abduction
+The unlawful seizure, transportation, and/or detention of a person against his/her will or of a
+minor without the consent of his/her custodial parent(s) or legal guardian.
+Kidnapping/Abduction includes hostage-taking.
+11A – 11D Sex Offenses
+Any sexual act directed against another person, without the consent of the victim, including
+instances where the victim is incapable of giving consent.
+11A Rape (except Statutory Rape)
+The carnal knowledge of a person, without the consent of the victim, including instances
+where the victim is incapable of giving consent because of his/her age or because of his/her
+temporary or permanent mental or physical incapacity.
+Agencies should classify the crime as rape, regardless of the age of the victim, if the victim did
+offender did not force of threaten the victim, and the victim was under the statutory age of
+consent, agencies should classify the crime as statutory rape.
+This offense includes the rape of both males and females as long as at least one of the
+offenders is the opposite sex of the victim. Black’s Law Dictionary, 6th ed., defines carnal
+knowledge as “the act of a man having sexual bodily connections with a woman; sexual
+intercourse.” There is carnal knowledge if there is the slightest penetration of the sexual organ
+of the female (vagina) by the sexual organ of the male (penis).
+In cases where several offenders rape one person, the responding agency should count one
+Rape (for one victim) and report separate offender information for each offender.
+11B Sodomy
+Oral or anal sexual intercourse with another person, without the consent of the victim,
+including instances where the victim is incapable of giving consent because of his/her age or
+because of his/her temporary or permanent mental or physical incapacity.
+If the offender both raped and sodomized the victim in one incident, then LEAs should report
+both offenses.
+11C Sexual Assault With An Object
+To use an object or instrument to unlawfully penetrate, however slightly, the genital or anal
+opening of the body of another person, without the consent of the victim, including instances
+where the victim is incapable of giving consent because of his/her age or because of his/her
+temporary or permanent mental or physical incapacity.
+An “object” or “instrument” is anything used by the offender other than the offender’s
+genitalia, e.g., a finger, bottle, handgun, stick.
+11D Fondling
+The touching of the private body parts of another person for the purpose of sexual
+gratification, without the consent of the victim, including instances where the victim is
+incapable of giving consent because of his/her age or because of his/her temporary or
+permanent mental or physical incapacity.
+Because there is no penetration in fondling, this offense will not convert to the SRS as Rape.
+36A – 36B Sex Offenses, Nonforcible
+Unlawful, nonforcible sexual intercourse.
+36A Incest
+Nonforcible sexual intercourse between persons who are related to each other within the
+degrees wherein marriage is prohibited by law.
+36B Statutory Rape
+Nonforcible sexual intercourse with a person who is under the statutory age of consent.
+If the offender used or threatened the use of force or the victim was incapable of giving
+consent because of his/her youth or mental impairment, either temporary or permanent, law
+enforcement should classify the offense as Rape, not Statutory Rape.
+13A − 13C ASSAULT OFFENSES
+An unlawful attack by one person upon another.
+Careful consideration of the following factors should assist in classifying assaults:
+1. The type of weapon employed or the use of an object as a weapon.
+2. The seriousness of the injury.
+3. The intent and capability of the assailant to cause serious injury.
+Usually, the weapons used or the extent of the injury sustained will be the deciding factors in
+distinguishing aggravated from simple assault. In only a very limited number of instances
+should it be necessary to examine the intent and capability of the assailant. Prosecution policy
+in a jurisdiction should not influence classification or reporting of law enforcement offense
+data. Reporting agencies should examine and classify the assaults in their respective
+jurisdictions according to the standard UCR definitions, regardless of whether the offenses are
+termed felonies by local definitions.
+By definition there can be no attempted assaults, only completed assaults. Therefore, reporting
+agencies must enter the data value of C = Completed into Data Element 7 (Offense Attempted/
+Completed) for all Assault Offenses.
+13A Aggravated Assault
+An unlawful attack by one person upon another wherein the offender uses a weapon or
+displays it in a threatening manner, or the victim suffers obvious severe or aggravated bodily
+injury involving apparent broken bones, loss of teeth, possible internal injury, severe
+laceration, or loss of consciousness.
+In the definition above, a weapon is a commonly known weapon (a gun, knife, club, etc.) or any
+other item that, although not usually thought of as a weapon, becomes one when used in a
+manner that could cause the types of severe bodily injury described. For Cargo Theft purposes,
+mace and pepper spray are considered to be weapons. A severe laceration is one that should
+receive medical attention. A loss of consciousness must be the direct result of force inflicted on
+the victim by the offender.
+Aggravated Assault includes assault with disease (as in cases when the offender is aware that
+he/she is infected with a deadly disease and deliberately attempts to inflict the disease by
+biting, spitting, etc.), assaults or attempts to kill or murder, poisoning, assault with a dangerous
+or deadly weapon, maiming, mayhem, and assault with explosives. In addition, this offense
+usually includes offenses such as Pointing and Presenting a Firearm, Brandishing a Firearm, etc.
+Though an agency may, on occasion, charge assailants with assault and battery or simple
+assault when a knife, gun, or other weapon was used in the incident, the agency should classify
+this type of assault as aggravated for UCR purposes. It is not necessary that injury result from
+an aggravated assault when an offender uses a gun, knife, or other weapon that could cause
+serious personal injury.
+The agency should enter the type of weapon or force involved with an Aggravated Assault in
+Data Element 13 (Type Weapon/Force Involved); it should also enter the circumstances in Data
+Element 31 (Aggravated Assault/Homicide Circumstances).
+13B Simple Assault
+An unlawful physical attack by one person upon another where neither the offender displays
+a weapon, nor the victim suffers obvious severe or aggravated bodily injury involving
+apparent broken bones, loss of teeth, possible internal injury, severe laceration, or loss of
+consciousness.
+Simple Assault includes offenses such as minor assault, hazing, assault and battery, and injury
+caused by culpable negligence.
+13C Intimidation
+To unlawfully place another person in reasonable fear of bodily harm through the use of
+threatening words and/or other conduct but without displaying a weapon or subjecting the
+victim to actual physical attack.
+This offense includes stalking. In addition, the threats associated with intimidation can be
+made in person, over the telephone, or in writing.
+120 Robbery
+The taking or attempting to take anything of value under confrontational circumstances from
+the control, custody, or care of another person by force or threat of force or violence and/or
+putting the victim in fear of immediate harm.
+Because some type of assault is an element of the crime of Robbery, an assault should not be
+reported as a separate crime as long as it was performed in furtherance of the robbery.
+However, if the injury results in death, a Homicide Offense must also be reported.
+The victims of a robbery include not only those persons and other entities (businesses, financial
+institutions, etc.) from whom property was taken, but also those persons toward whom the
+robber(s) directed force or threat of force in perpetrating the offense. Therefore, although the
+primary victim in a bank robbery would be the Financial Institution, the teller toward whom the
+robber pointed a gun and made a demand should also be reported as a victim. Carjackings are
+Robbery offenses in which a motor vehicle is taken through force or threat of force. Report
+only a Robbery not a Motor Vehicle Theft.
+200 Arson
+To unlawfully and intentionally damage or attempt to damage any real or personal property
+by fire or incendiary device.
+An agency should report only fires determined through investigation to have been unlawfully
+and intentionally set. Though the agency should include attempts to burn, it should not
+include fires of suspicious or unknown origin. In addition, an agency should report one
+incident for each distinct arson operation originating within its jurisdiction. If a fire started by
+arson in one jurisdiction spreads to another jurisdiction and destroys property, the agency in
+which the fire was started should report the incident.
+Incidents in which persons are killed as a direct result of arson require that agencies report both
+the Homicide and the Arson. Similarly, an agency should report the number of persons injured
+during an arson as an assault in addition to the arson. Arson-related deaths and injuries of
+police officers and firefighters, unless determined as willful murders or assaults, are excluded
+from the FBI’s UCR Program due to the hazardous nature of these professions.
+The type of property burned is to be entered into Data Element 15 (Property Description). The
+value of property burned is reported in Data Element 16 (Value of Property) and should include
+incidental damage resulting from fighting the fire.
+210 Extortion/Blackmail
+To unlawfully obtain money, property, or any other thing of value, either tangible or
+intangible, through the use or threat of force, misuse of authority, threat of criminal
+prosecution, threat of destruction of reputation or social standing, or through other coercive
+means.
+220 Burglary/Breaking & Entering
+The unlawful entry into a building or other structure with the intent to commit a felony or a
+theft.
+A forced entry is where force of any degree or a mechanical contrivance of any kind (e.g., a
+passkey or skeleton key) is used to unlawfully enter a building or other structure. An unforced
+entry is one where the unlawful entry is achieved without force through an unlocked door or
+window.
+23A-23H Larceny-Theft Offenses
+The unlawful taking, carrying, leading, or riding away of property from the possession or
+constructive possession of another person.
+23A Pocket-picking
+The theft of articles from another person’s physical possession by stealth where the victim
+usually does not become immediately aware of the theft.
+23B Purse-snatching
+The grabbing or snatching of a purse, handbag, etc., from the physical possession of another
+person.
+If more force was used than actually necessary to wrench the purse from the grasp of the
+person, then a strong-arm Robbery occurred rather than Purse-snatching.
+23C Shoplifting
+The theft by someone other than an employee of the victim of goods or merchandise exposed
+for sale.
+23D Theft From a Building
+A theft from within a building which is either open to the general public or to which the
+offender has legal access.
+23E Theft From Coin-Operated Machine or Device
+A theft from a machine or device that is operated or activated by the use of coins.
+23F Theft From Motor Vehicle
+The theft or articles from a motor vehicle, locked or unlocked.
+23G Theft of Motor Vehicle Parts or Accessories
+The theft of any part or accessory affixed to the interior or exterior of a motor vehicle in a
+manner which would make the item an attachment of the vehicle or necessary for its
+operation.
+23H All Other Larceny
+All thefts that do not fit any of the definitions of the specific categories of Larceny/Theft
+listed above.
+240 Motor Vehicle Theft
+The theft of a motor vehicle.
+A motor vehicle is a self-propelled vehicle that runs on the surface of land and not on rails and
+that fits one of the following property descriptions:
+Automobiles – sedans, coupes, station wagons, convertibles taxicabs, sport utility
+vehicles, or other similar motor vehicles that serve the primary purpose of transporting
+people.
+Buses – motor vehicles that are specifically designed (but not necessarily used) to
+transport groups of people on a commercial basis.
+Recreational Vehicles – motor vehicles that are specifically designed (but not
+necessarily used) to transport people and also provide them temporary lodging for
+recreational purposes.
+Trucks – motor vehicles that are specifically designed (but not necessarily used) to
+transport cargo.
+Other Motor Vehicles – any other motor vehicles, e.g., motorcycles, motor scooters,
+trail bikes, mopeds, snowmobiles, or golf carts.
+250 Counterfeiting
+The altering, copying, or imitation of something, without authority or right, with the intent to
+deceive or defraud by passing the copy or thing altered or imitated as that which is original or
+genuine or the selling, buying, or possession of an altered, copied, or imitated thing with the
+intent to deceive or defraud.
+26A – 26G Fraud Offenses
+The intentional perversion of the truth for the purpose of inducing another person or other
+entity in reliance upon it to part with something of value or to surrender a legal right.
+The most specific subcategory of fraud should be reported whenever the circumstances fit the
+definition of more than one of the subcategories listed below. For example, most frauds would
+fit the definition of False Pretenses/Swindle/Confidence Game. But if a credit card was used to
+perpetrate the fraud, the offense would be classified as Credit Card/Automated Teller Machine
+Fraud.
+26A False Pretenses/Swindle/Confidence Game
+The intentional misrepresentation of existing fact or condition or the use of some other
+deceptive scheme or device to obtain money, goods, or other things of value.
+26B Credit Card/Automated Teller Machine Fraud
+The unlawful use of a credit (or debit) card or automated teller machine for fraudulent
+purposes.
+26C Impersonation
+Falsely representing one’s identity or position and acting in the character or position thus
+unlawfully assumed to deceive others and thereby gain a profit or advantage, enjoy some
+right or privilege, or subject another person or entity to an expense, charge, or liability that
+would not have otherwise been incurred.
+26D Welfare Fraud
+The use of deceitful statements, practices, or devices to unlawfully obtain welfare benefits.
+26E Wire Fraud
+The use of an electric or electronic communications facility to intentionally transmit a false
+and/or deceptive message in furtherance of a fraudulent activity.
+26F Identity Theft
+Wrongfully obtaining and using another person’s personal data (e.g., name, date of birth,
+Social Security number, driver’s license number).
+This offense includes opening a credit card, bank account, etc. using a person’s information. This
+offense should not be confused with Impersonation (26C) (falsely acting in the character or position to
+unlawfully deceive others to gain a profit or advantage; when impersonating another person, the
+offender would not be in possession of another person’s personal data).
+26G Hacking/Computer Invasion
+Wrongfully gaining access to another person’s or institution’s computer software, hardware,
+or networks without authorized permissions or security clearances.
+270 Embezzlement
+The unlawful misappropriation by an offender to his/her own use or purpose of money,
+property, or some other thing of value entrusted to his/her care, custody, or control.
+280 Stolen Property Offenses
+Receiving, buying, selling, possessing, concealing, or transporting any property with the
+knowledge that it has been unlawfully taken, as by Burglary, Embezzlement, Fraud, Larceny,
+Robbery, etc.
+290 Destruction/Damage/Vandalism of Property
+To willfully or maliciously destroy, damage, deface, or otherwise injure real or personal
+property without the consent of the owner or the person having custody or control of it.
+This offense is to be reported only if the reporting agency deems that substantial injury to
+property has occurred. The offense includes a broad range of injury to property, e.g., from
+deliberate, extensive destruction of property at one extreme to mischievous, less extensive
+damage at the other extreme. It does not include destruction or damage to property caused by
+the crime of Arson.
+Incidental damage resulting from another offense (e.g., Burglary or Robbery) is to be reported in
+this offense category only if the reporting agency deems the amount of damage to be
+substantial. For example, insubstantial damage, such as a broken window or forced door,
+should not be reported, but substantial damage, such as major structural damage caused by a
+truck backing into a storefront to gain admittance, should be reported. For the crime of Arson,
+however, incidental damage resulting from fighting the fire should be included as part of the
+loss caused by burning. The determination of whether the damage was substantial is left to the
+discretion of the reporting LEA and should not require burdensome damage assessments.
+35A and 35B Drug/Narcotic Offenses (Except Driving Under the Influence)
+The violation of laws prohibiting the production, distribution, and/or use of certain controlled
+substances and the equipment or devices utilized in their preparation and/or use.
+35A Drug/Narcotic Violations
+The unlawful cultivation, manufacture, distribution, sale, purchase, use, possession,
+transportation, or importation of any controlled drug or narcotic substance.
+35B Drug Equipment Violations
+The unlawful manufacture, sale, purchase, possession, or transportation of equipment of
+devices utilized in preparing and/or using drugs or narcotics.
+370 Pornography/Obscene Material
+The violation of laws or ordinances prohibiting the manufacture, publishing, sale, purchase,
+or possession of sexually explicit material, e.g., literature or photographs.
+39A-39D Gambling Offenses
+To unlawfully bet or wager money or something else of value; assist, promote, or operate a
+game of chance for money or some other stake; possess or transmit wagering information;
+manufacture, sell, purchase, possess, or transport gambling equipment, devices, or goods; or
+tamper with the outcome of a sporting event or contest to gain a gambling advantage.
+39A Betting/Wagering
+To unlawfully stake money or something else of value on the happening of an uncertain
+event or on the ascertainment of a fact in dispute.
+39B Operating/Promoting/Assisting Gambling
+To unlawfully operate, promote, or assist in the operation of a game of chance, lottery, or
+other gambling activity.
+This offense includes bookmaking, numbers running, transmitting wagering information, etc.
+Version 3.0, 4/07/2023
+39C Gambling Equipment Violations
+To unlawfully manufacture, sell, buy, possess, or transport equipment, devices, and/or goods
+used for gambling purposes.
+39D Sports Tampering
+To unlawfully alter, meddle in, or otherwise interfere with a sporting contest or event for the
+purpose of gaining a gambling advantage.
+40A – 40C Prostitution Offenses
+To unlawfully engage in or promote sexual activities for anything of value.
+40A Prostitution
+To engage in commercial sex acts for anything of value.
+This offense involves prostitution by both males and females.
+40B Assisting or Promoting Prostitution
+To solicit customers or transport persons for prostitution purposes; to own, manage, or
+operate a dwelling or other establishment for the purpose of providing a place where
+prostitution is performed; or to otherwise assist or promote prostitution.
+40C Purchasing Prostitution
+To purchase or trade anything of value for commercial sex acts.
+510 Bribery
+The offering, giving, receiving, or soliciting of anything of value (e.g., a bribe, gratuity, or
+kickback) to sway the judgment or action of a person in a position of trust or influence.
+If the bribery involves changing the outcome of a sporting contest or event, it should be
+reported under Gambling Offenses as Sports Tampering, not Bribery.
+520 Weapon Law Violations
+The violation of laws or ordinances prohibiting the manufacture, sale, purchase,
+transportation, possession, concealment, or use of firearms, cutting instruments, explosives,
+incendiary devices, or other deadly weapons.
+Version 3.0, 4/07/2023
+64A and 64B Human Trafficking
+The inducement of a person to perform a commercial sex act, or labor, or services, through
+force, fraud, or coercion. Human trafficking has also occurred if a person under 18 years of
+age has been induced, or enticed, regardless of force, fraud, or coercion, to perform a
+commercial sex act.
+64A Commercial Sex Acts
+Inducing a person by force, fraud, or coercion to participate in commercial sex acts, or in
+which the person induced to perform such act(s) has not attained 18 years of age.
+64B Involuntary Servitude
+The obtaining of a person(s) through recruitment, harboring, transportation, or provision, and
+subjecting such persons by force, fraud, or coercion into involuntary servitude, peonage, debt
+bondage, or slavery (not to include commercial sex acts).
+Version 3.0, 4/07/2023
+10 APPENDIX E – Contact the FBI UCR Program
+To request information about: Contact:
+Crime Statistics Management Unit Telephone 304-625-4830
+Program administration; management; policy; UCR Facsimile 304-625-3566
+Advisory Process; information about crime data <ucr@leo.gov>
+submissions; data reporting problems; data quality;
+population information
+UCR Data Submissions <ucrstat@leo.gov>
+All UCR data submissions must come to this e-mail
+address.
+Law Enforcement Online Telephone 888-334-4536
+Technical Assistance/Help Desk, toll free (24/7)
+Access to the UCR database for data submissions;
+password administration; web assistance
+NIBRS Coordinator Telephone 304-625-3092
+NIBRS certification process; NIBRS policy; federal Facsimile 304-625-3566
+funding for NIBRS-compliant records management <cjis_comm@leo.gov>
+systems; converting from the SRS to the NIBRS Attention: NIBRS Coordinator
+NIBRS Training Coordinator Telephone 888-827-6427
+Requests for training; questions about classifying and Facsimile 304-625-5599
+scoring <cjis_comm@leo.gov>
+Attention: NIBRS Training
+Coordinator
+Quality Assurance Reviews Telephone 304-625-3020
+Assistance for law enforcement in assessing the Facsimile 304-625-3457
+integrity of their data and complying with program <acjis@leo.gov>
+requirements
+UCR Program Online <http://www.fbi.gov/about-
+UCR Program data; data self-query capability; data us/cjis/ucr/>
+submission specifications; publications; manuals;
+reference information; frequently asked questions
+Send correspondence to:
+Federal Bureau of Investigation, Criminal Justice Information Services Division,
+Uniform Crime Reporting Program, 1000 Custer Hollow Road, Clarksburg, West Virginia
+26306-0159
+Version 3.0, 4/07/2023
